@@ -4,7 +4,7 @@ Checks a file for any lines that have invalid UTF8 chars
 
 ## Usage
 
-checkfile <filename>
+checkfile _filename_
 
 If all is well, will print "got NNN lines"
 
